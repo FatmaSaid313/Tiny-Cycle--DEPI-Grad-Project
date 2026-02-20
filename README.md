@@ -2,7 +2,7 @@
 # [Project Name: Tiny Cycle]
 A Safe & Organized Digital Marketplace for Baby and Kids’ Products in Egypt
 ### _[Project Tagline: Second-Hand Baby Items Marketplace]_
-[Github link]((https://github.com/FatmaSaid313/Tiny-Cycle--DEPI-Grad-Project.git))
+[Github link](https://github.com/FatmaSaid313/Tiny-Cycle--DEPI-Grad-Project.git)
 ---
 ##  Team Members
 - **[Leader Name: Fatma Said Saad Mohamed]**  
