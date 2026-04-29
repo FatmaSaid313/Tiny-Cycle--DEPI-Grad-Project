@@ -4,6 +4,8 @@ A Safe & Organized Digital Marketplace for Baby and Kids’ Products in Egypt
 ### _[Project Tagline: Second-Hand Baby Items Marketplace]_
 [Github link](https://github.com/FatmaSaid313/Tiny-Cycle--DEPI-Grad-Project.git)
 ---
+[project Figma link](https://www.figma.com/design/xyKPxkES1kaoDnsR4VIbZT/Tiny-Cycle-Depi?node-id=1-2&t=RAOVnAiVspKhbsZH-1)
+---
 ##  Team Members
 - **[Leader Name: Fatma Said Saad Mohamed]**  
 - **[Member Name:Menna Allah Hany Mohamed Wasfy]**  
