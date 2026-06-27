@@ -6,6 +6,9 @@ A Safe & Organized Digital Marketplace for Baby and Kids’ Products in Egypt
 ---
 [project Figma link](https://www.figma.com/design/xyKPxkES1kaoDnsR4VIbZT/Tiny-Cycle-Depi?node-id=1-2&t=RAOVnAiVspKhbsZH-1)
 ---
+---
+[project presentation link](https://www.figma.com/deck/5E9pa31VZYqJd5tLBhec0q)
+---
 ##  Team Members
 - **[Leader Name: Fatma Said Saad Mohamed]**  
 - **[Member Name:Menna Allah Hany Mohamed Wasfy]**  
